@@ -8,4 +8,4 @@
 
 **Investigador responsable:** Cristián Cox (UDP).
 
-**Co-investigadores:** Juan Carlos Castillo (ISUC),Daniel Miranda (ISUC) Camila Jara (CPCE)
+**Co-investigadores:** Juan Carlos Castillo (UChile),Daniel Miranda (MIDE-UC) Camila Jara (CPCE)
